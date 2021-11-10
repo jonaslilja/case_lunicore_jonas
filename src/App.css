@@ -13,6 +13,19 @@
   }
 }
 
+.button {
+    background-color: white;
+    border: 2px solid black;
+    color:red;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 30px;
+    cursor: pointer;
+    text-decoration:none;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
